@@ -1,7 +1,7 @@
 <template>
     <div id="menu">
         <div>
-            <img id="logo" src="@/assets/gift.svg" alt="">
+            <img v-b-modal.modal id="logo" src="@/assets/gift.svg" alt="">
             <div id="others">
                 <img src="@/assets/academy.svg" alt="">
                 <img src="@/assets/trophy.svg" alt="">
